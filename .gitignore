@@ -1,0 +1,12 @@
+# Dependencies
+node_modules/
+
+# Compiled JavaScript
+dist/
+
+# Environment secrets
+.env
+
+# macOS files
+.DS_Store
+.history/
